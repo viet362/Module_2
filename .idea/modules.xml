@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module_2.iml" filepath="$PROJECT_DIR$/.idea/Module_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tongquan_Java/Test/Test.iml" filepath="$PROJECT_DIR$/Tongquan_Java/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tongquan_Java/Tongquan_Java.iml" filepath="$PROJECT_DIR$/Tongquan_Java/Tongquan_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VongLap/VongLap.iml" filepath="$PROJECT_DIR$/VongLap/VongLap.iml" />
+    </modules>
+  </component>
+</project>
