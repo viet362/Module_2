@@ -194,6 +194,7 @@ public class BT_Mang {
      */
 
     //[*Bài tập] Đếm số lần xuất hiện của ký tự trong chuỗi
+
     public static void main(String[] args) {
         String str = "gbvaibgoaogboagbaoeigbiuabgab";
         Scanner input = new Scanner(System.in);
