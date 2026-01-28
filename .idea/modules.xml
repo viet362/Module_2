@@ -3,8 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Access modifier_static method_static property/Access modifier_static method_static property.iml" filepath="$PROJECT_DIR$/Access modifier_static method_static property/Access modifier_static method_static property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ke_thua/BT_Circle_Cylinder/BT_Circle_Cylinder.iml" filepath="$PROJECT_DIR$/Ke_thua/BT_Circle_Cylinder/BT_Circle_Cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ke_thua/BT_Point2D_Point3D/BT_Point2D_Point3D.iml" filepath="$PROJECT_DIR$/Ke_thua/BT_Point2D_Point3D/BT_Point2D_Point3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ke_thua/BT_Point_MoveablePoint/BT_Point_MoveablePoint.iml" filepath="$PROJECT_DIR$/Ke_thua/BT_Point_MoveablePoint/BT_Point_MoveablePoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ke_thua/BT_Shape_Triangle/BT_Shape_Triangle.iml" filepath="$PROJECT_DIR$/Ke_thua/BT_Shape_Triangle/BT_Shape_Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ke_thua/Ke_thua.iml" filepath="$PROJECT_DIR$/Ke_thua/Ke_thua.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mang_Phuongthuc/Mang_Phuongthuc.iml" filepath="$PROJECT_DIR$/Mang_Phuongthuc/Mang_Phuongthuc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Module_2.iml" filepath="$PROJECT_DIR$/.idea/Module_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ke_thua/TH_He_cac_doi_tuong_hinh_hoc/TH_He_cac_doi_tuong_hinh_hoc.iml" filepath="$PROJECT_DIR$/Ke_thua/TH_He_cac_doi_tuong_hinh_hoc/TH_He_cac_doi_tuong_hinh_hoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tongquan_Java/Test/Test.iml" filepath="$PROJECT_DIR$/Tongquan_Java/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tongquan_Java/Tongquan_Java.iml" filepath="$PROJECT_DIR$/Tongquan_Java/Tongquan_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/VongLap/VongLap.iml" filepath="$PROJECT_DIR$/VongLap/VongLap.iml" />
