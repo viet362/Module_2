@@ -4,13 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractClass_Interface/AbstractClass_Interface.iml" filepath="$PROJECT_DIR$/AbstractClass_Interface/AbstractClass_Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Access modifier_static method_static property/Access modifier_static method_static property.iml" filepath="$PROJECT_DIR$/Access modifier_static method_static property/Access modifier_static method_static property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cau_truc_du_lieu/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Cau_truc_du_lieu/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ke_thua/BT_Circle_Cylinder/BT_Circle_Cylinder.iml" filepath="$PROJECT_DIR$/Ke_thua/BT_Circle_Cylinder/BT_Circle_Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ke_thua/BT_Point2D_Point3D/BT_Point2D_Point3D.iml" filepath="$PROJECT_DIR$/Ke_thua/BT_Point2D_Point3D/BT_Point2D_Point3D.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ke_thua/BT_Point_MoveablePoint/BT_Point_MoveablePoint.iml" filepath="$PROJECT_DIR$/Ke_thua/BT_Point_MoveablePoint/BT_Point_MoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ke_thua/BT_Shape_Triangle/BT_Shape_Triangle.iml" filepath="$PROJECT_DIR$/Ke_thua/BT_Shape_Triangle/BT_Shape_Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractClass_Interface/BT_interface_Colorable/BT_interface_Colorable.iml" filepath="$PROJECT_DIR$/AbstractClass_Interface/BT_interface_Colorable/BT_interface_Colorable.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractClass_Interface/BT_interface_Resizeable/BT_interface_Resizeable.iml" filepath="$PROJECT_DIR$/AbstractClass_Interface/BT_interface_Resizeable/BT_interface_Resizeable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cau_truc_du_lieu/Cau_truc_du_lieu.iml" filepath="$PROJECT_DIR$/Cau_truc_du_lieu/Cau_truc_du_lieu.iml" />
       <module fileurl="file://$PROJECT_DIR$/CleanCode_Refactoring/CleanCode_Refactoring.iml" filepath="$PROJECT_DIR$/CleanCode_Refactoring/CleanCode_Refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hoc_Thuat_toan_30bt/Hoc_Thuat_toan_30bt.iml" filepath="$PROJECT_DIR$/Hoc_Thuat_toan_30bt/Hoc_Thuat_toan_30bt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ke_thua/Ke_thua.iml" filepath="$PROJECT_DIR$/Ke_thua/Ke_thua.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mang_Phuongthuc/Mang_Phuongthuc.iml" filepath="$PROJECT_DIR$/Mang_Phuongthuc/Mang_Phuongthuc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Module_2.iml" filepath="$PROJECT_DIR$/.idea/Module_2.iml" />
@@ -22,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/AbstractClass_Interface/TH_interface_Comparable/TH_interface_Comparable.iml" filepath="$PROJECT_DIR$/AbstractClass_Interface/TH_interface_Comparable/TH_interface_Comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractClass_Interface/TH_interface_Comparator/TH_interface_Comparator.iml" filepath="$PROJECT_DIR$/AbstractClass_Interface/TH_interface_Comparator/TH_interface_Comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tongquan_Java/Test/Test.iml" filepath="$PROJECT_DIR$/Tongquan_Java/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuat_toan_tim_kiem/Thuat_toan_tim_kiem.iml" filepath="$PROJECT_DIR$/Thuat_toan_tim_kiem/Thuat_toan_tim_kiem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tongquan_Java/Tongquan_Java.iml" filepath="$PROJECT_DIR$/Tongquan_Java/Tongquan_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/VongLap/VongLap.iml" filepath="$PROJECT_DIR$/VongLap/VongLap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Huong_doi_tuong/untitled/untitled.iml" filepath="$PROJECT_DIR$/Huong_doi_tuong/untitled/untitled.iml" />
